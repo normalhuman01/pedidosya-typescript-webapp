@@ -1,4 +1,4 @@
-# pedidosya webapp - Documentación
+# Pedidosya Webapp - Documentación
 
 Este repositorio contiene el código fuente de la aplicación 'Pedidos Ya', que se ha dividido en dos aplicaciones separadas: una para el front-end y otra para el back-end. Esta división se ha realizado con el propósito de mantener una arquitectura modular que facilite el desarrollo y reduzca la detección de errores en el software. A continuación, se proporcionan detalles sobre la configuración y ejecución de ambas aplicaciones.
 
